@@ -7,3 +7,11 @@ html {
 *::before {
   box-sizing: inherit;
 }
+
+body {
+  background: #2c2141;
+}
+
+.person {
+  display: flex;
+}
